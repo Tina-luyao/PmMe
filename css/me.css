@@ -10834,7 +10834,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    padding-left: 24rem;
   }
 }
 h1, .h1,
@@ -10890,7 +10890,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 17rem;
+    width: 24rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -10951,7 +10951,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 125rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
